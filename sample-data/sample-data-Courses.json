@@ -1,0 +1,16 @@
+[
+    {
+        "course_id": 101,
+        "course_name": "ML",
+        "course_description": "Machine Learning Algorithms"
+    },
+    {
+        "course_id": 102,
+        "course_name": "DL",
+        "course_description": "Deep Learning Algorithms"
+    },
+    {
+        "course_id": 103,
+        "course_name": "Crypto"
+    }
+]
